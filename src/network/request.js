@@ -6,6 +6,7 @@ export function request(config) {
     timeout:5000
   })
 
+
   // instance.interceptors.request.use(config => {
   //   console.log(config);
   //   return config
